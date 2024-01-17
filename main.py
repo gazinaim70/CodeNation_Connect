@@ -147,3 +147,6 @@ if __name__ == "__main__":
             break
         else:
             print("Invalid choice. Please enter 1, 2, 3, 4, or 5.")
+            
+def thisIsTheForked():
+    print("forked")
